@@ -10,7 +10,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 150px;
+    padding: 10;
     background-image: url(images/image_5.jpeg);
     height: 70px;
     position: relative;
@@ -22,6 +22,7 @@ nav ul{
     margin-right: 25em;
     list-style: none;
     position: relative;
+    flex-direction:row;
 }
 nav ul a{
     font-size: 20px;
