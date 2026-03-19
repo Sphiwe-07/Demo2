@@ -18,10 +18,10 @@ nav{
 nav ul{
     display: flex;
     justify-content: center;
-    gap: 5em;
+    gap: 2em;
     margin-right: 25em;
     list-style: none;
-    position: relative;
+    position:-ms-page;
     flex-direction:row;
 }
 nav ul a{
